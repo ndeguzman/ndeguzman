@@ -1,13 +1,12 @@
 # ⋅˚₊‧ ୨ Nyx Here! ୧ ‧₊˚ ⋅
 
-<small>I'm a **Web and Communications Administrator** at Albera Mentoring Partnership and a current **student at NAIT**, specializing in **Digital Media and IT** with a concentration in **Web Design and Development**. I’m passionate about crafting beautiful, functional websites and digital experiences.</small>
+<small>A Web Designer, UX/UI Specialist, and ITIL Certified Software Engineer/ITSM Analyst based in Edmonton, Alberta. I currently design, develop, and maintain Alberta Mentoring Partnership’s website and digital platforms and reduced operational cost by up to 25%.
 
-<small>With a foundation in **software development**, **web design and development**, and **IT service management**, I combine creativity and technology to create seamless solutions. I also optimize workflows and processes using **Agile methodologies** and **ITIL principles**.</small>
+I developed an internal Google Site portal for interns in the Digital Services team of the Local Government of Edmonton.
 
+I created and spearheaded the Incident Management process of Cambridge University Press and Assessment’s Site Reliability Engineering team.
 
-💻 **Current Focus**: Balancing studies with hands-on projects in web design and development.
-
-🎯 **Goal**: To level up my web development skills while crafting standout designs that I can proudly showcase!
+</small>
   
 <p align="center">────୨ৎ────</p>
 
