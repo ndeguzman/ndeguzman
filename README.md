@@ -10,7 +10,7 @@ I created and spearheaded the Incident Management process of Cambridge Universit
   
 <p align="center">────୨ৎ────</p>
 
-Here’s what I’m currently working on: <a href="https://www.ndeguzman.com"><b>my portfolio</b></a> <sub>(A HUGE work in progress)</sub>
+Here’s what I’m currently working on: <a href="https://www.ndeguzman.com"><b>my portfolio</b></a> <sub>(always a work in progress)</sub>
 
 <sub>Myself... (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ kidding aside!</sub>
 
